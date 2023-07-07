@@ -2,7 +2,7 @@
 First Repo
 
 ##Introductions
-Hey, I am **Curtis**! I am Learning to become a _**Web developer and designer**_.
+Hey, I am **Ly**! I am Learning to become a _**Web developer and designer**_.
 
 Things I need to do:
 * Create mock websites
